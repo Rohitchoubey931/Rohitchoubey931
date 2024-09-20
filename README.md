@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohitchoubey931
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Power BI, Tableau, Advance Excel
-- 💞️ I’m looking for an internship, Part time.
+- 👀 I’m Front End Developer
+- 🌱 I’m currently learning Applied modern design principles with CSS animations
+- 💞️ I’m looking for an internship
 - 📫 How to reach me rohitchoubey931@gmail.com
 
 <!---
